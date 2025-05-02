@@ -1,2 +1,3 @@
 # Project exclude paths
-/MiComedor/target/
+/MiComedor
+####/target/
